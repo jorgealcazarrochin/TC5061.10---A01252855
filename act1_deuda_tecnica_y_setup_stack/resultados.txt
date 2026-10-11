@@ -1,0 +1,7 @@
+Resumen del experimento hello_mlflow
+------------------------------------
+modelo........: regresion_lineal_dummy
+learning_rate.: 0.01
+epochs........: 5
+loss final....: 0.1919
+accuracy final: 0.8081

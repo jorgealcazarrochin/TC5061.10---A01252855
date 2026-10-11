@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Salidas de MLflow
+mlflow.db
+mlruns/
+mlartifacts/
+artefactos/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

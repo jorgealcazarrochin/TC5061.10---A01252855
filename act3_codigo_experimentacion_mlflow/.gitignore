@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Salidas de MLflow y del script
+mlflow.db
+mlruns/
+mlartifacts/
+artefactos/
+
+# macOS
+.DS_Store
